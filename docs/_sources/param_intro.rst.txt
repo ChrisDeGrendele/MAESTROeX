@@ -100,9 +100,7 @@ include:
 -  ``stop_time`` is the maximum simulation time, in seconds,
    to evolve the system for.
 
--  ``max_step`` is the maximum number of steps to take. Note: the default
-   value is ``-1`` where MAESTROeX will take as many time steps as needed in order
-   to get to ``stop_time``. 
+-  ``max_step`` is the maximum number of steps to take.
 
 Parameters affecting the size of the timestep include:
 
